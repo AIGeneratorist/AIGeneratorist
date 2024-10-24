@@ -106,3 +106,14 @@ You can find me on:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=AIGeneratorist&theme=tokyonight&hide_title=true&show_icons=true)
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AIGeneratorist&theme=tokyonight)
+
+## Misc.
+
+<details>
+	<summary>Programming Quote</summary>
+	<img src="https://quotes-github-readme.vercel.app/api" alt="Programming Quote">
+</details>
+<details>
+	<summary>Programming Joke</summary>
+	<img src="https://readme-jokes.vercel.app/api" alt="Programming Joke">
+</details>
