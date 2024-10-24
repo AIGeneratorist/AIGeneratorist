@@ -117,3 +117,6 @@ You can find me on:
 	<summary>Programming Joke</summary>
 	<img src="https://readme-jokes.vercel.app/api" alt="Programming Joke">
 </details>
+
+<!-- Source: https://github.com/guilyx/guilyx -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
