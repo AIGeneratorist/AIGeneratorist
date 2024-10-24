@@ -97,3 +97,12 @@ You can find me on:
 		<img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white" alt="Mail">
 	</a>
 </div>
+
+## Stats
+
+[![Follower Count](https://img.shields.io/github/followers/AIGeneratorist?style=flat&logo=github&label=Followers)](https://github.com/AIGeneratorist?tab=followers)
+![Visitor Count](https://komarev.com/ghpvc/?username=AIGeneratorist&style=flat&label=Profile%20Views)
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=AIGeneratorist&theme=tokyonight&hide_title=true&show_icons=true)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AIGeneratorist&theme=tokyonight)
