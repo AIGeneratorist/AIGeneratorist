@@ -1,8 +1,10 @@
+<!-- Some logos come from https://github.com/DenverCoder1/custom-icon-badges -->
+
 # AI Generatorist
 
 <div align="center">
 	<a href="https://aigeneratorist.github.io">
-		<img src="https://img.shields.io/badge/Website-aigeneratorist.github.io-blue" alt="Website">
+		<img src="https://custom-icon-badges.demolab.com/badge/Website-aigeneratorist.github.io-blue?logo=website" alt="Website">
 	</a>
 </div>
 
@@ -14,14 +16,14 @@ I cover AI, ML, programming, puzzles, tech, digital art, gaming, game dev, desig
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-007396.svg)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=jupyter&logoColor=white)
@@ -46,7 +48,7 @@ I cover AI, ML, programming, puzzles, tech, digital art, gaming, game dev, desig
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-FFFFFF.svg?logo=matplotlib)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?&logo=axios&logoColor=white)
 ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
