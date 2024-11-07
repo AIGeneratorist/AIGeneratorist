@@ -92,6 +92,9 @@ You can find me on:
 		<img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit">
 	</a>
 	<img src="https://img.shields.io/badge/Discord-%40aigeneratorist-5865F2?logo=discord&logoColor=white" alt="Discord">
+	<a href="https://bsky.app/profile/aigeneratorist.bsky.social">
+		<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white" alt="Bluesky">
+	</a>
 	<a href="https://www.linkedin.com/in/alvin-hong-5a157030b">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
