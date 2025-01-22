@@ -79,12 +79,6 @@ You can find me on:
 	<a href="https://stackoverflow.com/users/26957849">
 		<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow">
 	</a>
-	<a href="https://x.com/AIGeneratorist">
-		<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X">
-	</a>
-	<a href="https://www.instagram.com/aigeneratorist">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-	</a>
 	<a href="https://www.threads.net/@aigeneratorist">
 		<img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white" alt="Threads">
 	</a>
