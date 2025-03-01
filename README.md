@@ -86,6 +86,9 @@ You can find me on:
 	<a href="https://bsky.app/profile/aigeneratorist.bsky.social">
 		<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white" alt="Bluesky">
 	</a>
+	<a href="https://hachyderm.io/@AIGeneratorist">
+		<img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" alt="Mastodon">
+	</a>
 	<a href="https://www.linkedin.com/in/alvin-hong-5a157030b">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
