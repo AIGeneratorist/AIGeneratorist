@@ -39,6 +39,7 @@ I cover AI, ML, programming, puzzles, tech, digital art, gaming, game dev, desig
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -55,6 +56,7 @@ I cover AI, ML, programming, puzzles, tech, digital art, gaming, game dev, desig
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=white)
 
 *... and learning more everyday.*
 
