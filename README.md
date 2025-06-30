@@ -13,7 +13,7 @@ I cover AI, ML, programming, puzzles, tech, digital art, gaming, game dev, desig
 ## Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396?logo=java&logoColor=white)
@@ -30,7 +30,7 @@ I cover AI, ML, programming, puzzles, tech, digital art, gaming, game dev, desig
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
-![Codeium](https://img.shields.io/badge/Codeium-09B6A2?logo=codeium&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
@@ -92,7 +92,7 @@ You can find me on:
 		<img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" alt="Mastodon">
 	</a>
 	<a href="https://www.linkedin.com/in/alvin-hong-5a157030b">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+		<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linked-in" alt="LinkedIn">
 	</a>
 	<a href="mailto:alvinhong2014@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white" alt="Mail">
